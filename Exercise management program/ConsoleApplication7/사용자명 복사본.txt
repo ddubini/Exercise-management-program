@@ -1,0 +1,22 @@
+day 1 : [BenchPress(5x10), LyingTricepsExtension(5x10)]<- nxm에 대한 정보는 루틴메이커에서
+day 2 : [Pull-up(5x10), LatPull-Down(5x10), Barbell-curl(5x10)]
+day 3 : [Barbell-Shoulder-Press(5x10), Squat(5x10)]
+//3분할의 예시입니다 무분할은 day 1만, 2분할은 day1, 2
+11.24
+{운동}
+BenchPress(5x10) : 50kg <- 무게에 대한 정보는 사용자명txt에 입력시 물어보는 것으로(매일 변경 가능성)
+LyingTricpesExtension(5x10) : 20kg
+(애니멀 플로우) : Beast - LoadedBeast - Underswitch - (플로우 메이커에서 받아서 입력)
+총 칼로리 소모량 : x
+{몸상태}
+키 : 180(입력받기)
+몸무게 : 70(입력받기)
+BMI : (계산)
+기초대사량 : (입력받기)
+{식단}
+아침 : Food-Food-Food (300kcal) (10g)<- 단백질
+점심 : Food-Food (200kcal)
+저녁 : Food (100kcal)
+총 섭취 칼로리량 : x (필요시)(아/점/저 로 계산할거면 불필요)
+총 섭취 단백질량 : y
+//이런형식의 날짜 반복

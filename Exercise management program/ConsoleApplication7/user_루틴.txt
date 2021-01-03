@@ -1,0 +1,3 @@
+Day1 : plank(5X10) face-pulls(4X5) 
+Day2 : deadlift(2X15) push-up(3X5) rotator-cuff(3X20) 
+

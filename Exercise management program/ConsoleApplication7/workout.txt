@@ -1,0 +1,9 @@
+shoulder	Rotator-cuff	https://www.youtube.com/watch?v=U1hIHwLsiq8
+lower_body	Squats		https://www.youtube.com/watch?v=nEQQle9-0NA
+chest		Bench-Press	https://www.youtube.com/watch?v=vthMCtgVtFw 
+chest		Push-Up		https://www.youtube.com/watch?v=-Mbr55h3BeQ
+back		Pull-up		https://www.youtube.com/watch?v=sIvJTfGxdFo
+back		Deadlift	https://www.youtube.com/watch?v=hCDzSR6bW10
+arms		Face-pulls	https://www.youtube.com/watch?v=eIq5CB9JfKE
+abs		Plank		https://www.youtube.com/watch?v=ZyWEXjdAGCQ
+abs		Seven-Workout	https://www.youtube.com/watch?v=DHD1-2P94DI
